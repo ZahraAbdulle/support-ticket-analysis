@@ -19,6 +19,3 @@ This repository focuses on analyzing support ticket data using Python. The analy
 
 ## Dataset
 The dataset `support2-1.csv` is included for replicating the analysis. It contains anonymized support ticket data, including ticket categories, timestamps, and resolution statuses.
-
-## Contributors
-- Zahra A. Abdulle
